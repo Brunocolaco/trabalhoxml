@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Mostrar no console como resultado: -->
+<!-- André - Matemática: 7.5, Português: 5.5, Média Geral: 6.5 -->
+<turma>
+	<aluno nome="André">
+		<disciplinas>
+			<disciplina nome="Matemática">
+				<notas>
+					<nota valor="8.0" />
+					<nota valor="7.0" />
+				</notas>
+			</disciplina>
+			<disciplina nome="Português">
+				<notas>
+					<nota valor="9.0" />
+					<nota valor="3.0" />
+				</notas>
+			</disciplina>
+		</disciplinas>
+	</aluno>
+	<aluno nome="João">
+		<disciplinas>
+			<disciplina nome="Matemática">
+				<notas>
+					<nota valor="6.0" />
+					<nota valor="3.0" />
+				</notas>
+			</disciplina>
+			<disciplina nome="Português">
+				<notas>
+					<nota valor="10.0" />
+					<nota valor="9.0" />
+				</notas>
+			</disciplina>
+		</disciplinas>
+	</aluno>
+</turma>
